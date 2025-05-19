@@ -1,6 +1,6 @@
 Consultation du site impresso, europeana et Gallica à la recherche de fonds photos sur le sujet : Grève ou Cheminots
  
-Grève des cheminots à Londres, réunion à St Pancras : [photographie de presse] / [Agence Rol]
+Grève des cheminots à Londres, réunion à St Pancras : [photographie de presse] / [Agence Rol] -> DDB
 # https://www.europeana.eu/es/item/9200518/ark__12148_btv1b53030416r
 
 # Grève des cheminots anglais, Mr Arthur Henderson [secrétaire du Labor party] quittant Caxton # Hall : [photographie de presse] / [Agence Rol]
@@ -35,7 +35,7 @@ https://gallica.bnf.fr/ark:/12148/btv1b53097273d?rk=107296;4
 Düsseldorf, arrivée de la 4e section de cheminots venant de Versailles : [photographie de presse] / [Agence Rol]
 https://gallica.bnf.fr/ark:/12148/btv1b530972613?rk=85837;2
 
-25/2/20, les cheminots [en grève] au bois de Vincennes : [photographie de presse] / [Agence Rol]
+25/2/20, les cheminots [en grève] au bois de Vincennes : [photographie de presse] / [Agence Rol] -> DDB
 https://gallica.bnf.fr/ark:/12148/btv1b53036344s.r=cheminots?rk=21459;2
 
 25/2/20, les cheminots [en grève] au bois de Vincennes (Chaverot) [i.e. Chavereau, syndicaliste, haranguant la foule] : [photographie de presse] / [Agence Rol]
@@ -74,7 +74,7 @@ https://gallica.bnf.fr/ark:/12148/btv1b53036563x.r=Cheminot%20Cheminot?rk=343349
 25/2/20, les cheminots [en grève] au bois de Vincennes (Chaverot) [i.e. Chavereau, syndicaliste, haranguant la foule] : [photographie de presse] / [Agence Rol]
 https://gallica.bnf.fr/ark:/12148/btv1b530363400.r=Cheminot%20Cheminot?rk=386268;0#
 
-Grève des cheminots, 26/2/20, gare de Lyon : [photographie de presse] / [Agence Rol]
+Grève des cheminots, 26/2/20, gare de Lyon : [photographie de presse] / [Agence Rol] -> DDB
 https://gallica.bnf.fr/ark:/12148/btv1b530365596.r=Cheminot%20Cheminot?rk=407727;2
 
 Düsseldorf, cheminots français : [photographie de presse] / [Agence Rol]
